@@ -1,0 +1,15 @@
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.csproj.AssemblyReference.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.AssemblyInfoInputs.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.AssemblyInfo.cs
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.csproj.CoreCompileInputs.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\bin\Debug\net7.0\Programering.exe
+c:\Users\leopold.seidenglanz\Documents\Programering\bin\Debug\net7.0\Programering.deps.json
+c:\Users\leopold.seidenglanz\Documents\Programering\bin\Debug\net7.0\Programering.runtimeconfig.json
+c:\Users\leopold.seidenglanz\Documents\Programering\bin\Debug\net7.0\Programering.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\bin\Debug\net7.0\Programering.pdb
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\refint\Programering.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.pdb
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\Programering.genruntimeconfig.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\obj\Debug\net7.0\ref\Programering.dll
