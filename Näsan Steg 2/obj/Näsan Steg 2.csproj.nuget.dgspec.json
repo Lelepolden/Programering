@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Programering.csproj": {}
+    "c:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Näsan Steg 2\\Näsan Steg 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Programering.csproj": {
+    "c:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Näsan Steg 2\\Näsan Steg 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Programering.csproj",
-        "projectName": "Programering",
-        "projectPath": "C:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Programering.csproj",
+        "projectUniqueName": "c:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Näsan Steg 2\\Näsan Steg 2.csproj",
+        "projectName": "Näsan Steg 2",
+        "projectPath": "c:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Näsan Steg 2\\Näsan Steg 2.csproj",
         "packagesPath": "C:\\Users\\leopold.seidenglanz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leopold.seidenglanz\\Documents\\Programering\\obj\\",
+        "outputPath": "c:\\Users\\leopold.seidenglanz\\Documents\\Programering\\Näsan Steg 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
