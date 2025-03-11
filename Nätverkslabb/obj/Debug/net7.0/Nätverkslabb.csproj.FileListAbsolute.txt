@@ -1,0 +1,15 @@
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\bin\Debug\net7.0\Nätverkslabb.exe
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\bin\Debug\net7.0\Nätverkslabb.deps.json
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\bin\Debug\net7.0\Nätverkslabb.runtimeconfig.json
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\bin\Debug\net7.0\Nätverkslabb.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\bin\Debug\net7.0\Nätverkslabb.pdb
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.csproj.AssemblyReference.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.AssemblyInfoInputs.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.AssemblyInfo.cs
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.csproj.CoreCompileInputs.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\refint\Nätverkslabb.dll
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.pdb
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\Nätverkslabb.genruntimeconfig.cache
+c:\Users\leopold.seidenglanz\Documents\Programering\Nätverkslabb\obj\Debug\net7.0\ref\Nätverkslabb.dll
